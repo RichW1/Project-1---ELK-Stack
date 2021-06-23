@@ -4,7 +4,7 @@ THIS README IS A WORK IN PROGRESS AND WILL BE UPDATED
 
 The files in this repository were used to configure the network depicted below.
 
-Unit (Images/diagram_filename.png)
+Unit ![image](https://user-images.githubusercontent.com/55418879/123030627-51785200-d3a0-11eb-87e3-ef154f41f1d7.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
