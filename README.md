@@ -6,7 +6,6 @@ Unit ![image](https://user-images.githubusercontent.com/55418879/123030627-51785
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the filebeat file may be used to install only certain pieces of it, such as Filebeat.
 
-  ansible/files/filebeat-config.yml
 
 This document contains the following details:
 - Description of the Topologu
@@ -27,7 +26,6 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
 
 | Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
